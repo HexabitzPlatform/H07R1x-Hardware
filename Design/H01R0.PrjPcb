@@ -135,6 +135,40 @@ GenerateClassCluster=0
 DocumentUniqueId=GNGXNYEU
 
 [Document6]
+DocumentPath=..\..\AS01508MO_SC11_R\AS01508MO-SC11-R\SPKR_AS01508MO-SC11-R.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WSABWJBI
+
+[Document7]
+DocumentPath=..\..\AS01508MO_SC11_R\AS01508MO-SC11-R\AS01508MO-SC11-R.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GWYORNOA
+
+[Document8]
 DocumentPath=..\..\ISD2360SYI_noscript\Altium\ISD2360SYI\ISD2360SYI.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,9 +183,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WXHLQVDG
 
-[Document7]
+[Document9]
 DocumentPath=..\..\ISD2360SYI_noscript\Altium\ISD2360SYI\ISD2360SYI.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,7 +200,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UQBGSXPY
 
 [Parameter1]
 Name=Module_Description
