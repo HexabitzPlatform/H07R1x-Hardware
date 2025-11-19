@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WXHLQVDG
 
 [Document5]
-DocumentPath=H01R0_Backend.SchDoc
+DocumentPath=H07R1x_Backend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TQGQSHTG
 
 [Document6]
-DocumentPath=H01R0_Frontend 1.SchDoc
+DocumentPath=H07R1x_Frontend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,24 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IEKVTBAZ
 
 [Document7]
-DocumentPath=H01R0_Frontend 2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GNGXNYEU
-
-[Document8]
-DocumentPath=H01R0.PcbDoc
+DocumentPath=H07R1x.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -184,23 +167,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDVUDOLC
-
-[Document9]
-DocumentPath=H01R0_Frontend.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GNGXNYEU
 
 [Parameter1]
 Name=Module_Description
