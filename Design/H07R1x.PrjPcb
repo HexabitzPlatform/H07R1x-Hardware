@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=OutJob.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=..\Libraries\AS01508MO_SC11_R\AS01508MO-SC11-R\SPKR_AS01508MO-SC11-R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSABWJBI
 
-[Document2]
+[Document3]
 DocumentPath=..\Libraries\AS01508MO_SC11_R\AS01508MO-SC11-R\AS01508MO-SC11-R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWYORNOA
 
-[Document3]
+[Document4]
 DocumentPath=..\Libraries\ISD2360SYI\Altium\ISD2360SYI\ISD2360SYI.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQBGSXPY
 
-[Document4]
+[Document5]
 DocumentPath=..\Libraries\ISD2360SYI\Altium\ISD2360SYI\ISD2360SYI.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WXHLQVDG
 
-[Document5]
+[Document6]
 DocumentPath=H07R1x_Backend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TQGQSHTG
 
-[Document6]
+[Document7]
 DocumentPath=H07R1x_Frontend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEKVTBAZ
 
-[Document7]
+[Document8]
 DocumentPath=H07R1x.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
